@@ -1,6 +1,8 @@
 # SQL-documentations
 
-Here’s the rebalanced **32‑week** plan, still with Sat–Thu study/practice days and Fri exams—but now **Weeks 1–19** cover **6 topics/week** (front‑loaded), and **Weeks 20–32** cover **4 topics/week** (tapering off). The topic order is exactly as you supplied.
+
+**32‑week** plan, Sat–Thu study/practice days and Fri exams,  Weeks 1–19 cover **6 topics/week** (front‑loaded), and **Weeks 20–32** cover **4 topics/week** (tapering off)
+
 
 ---
 
@@ -8,12 +10,12 @@ Here’s the rebalanced **32‑week** plan, still with Sat–Thu study/practice 
 
 **Week 1 (Topics 1–6)**
 
-1. PostgreSQL – Introduction
-2. Install PostgreSQL on Windows
-3. Install PostgreSQL on Mac
-4. PostgreSQL – Loading a Database
-5. PostgreSQL – Create Database
-6. PostgreSQL – ALTER DATABASE
+- [ ] 1. PostgreSQL – Introduction
+- [ ] 2. Install PostgreSQL on Windows
+- [ ] 3. Install PostgreSQL on Mac
+- [ ] 4. PostgreSQL – Loading a Database
+- [ ] 5. PostgreSQL – Create Database
+- [ ] 6. PostgreSQL – ALTER DATABASE
 
 **Week 2 (7–12)**
 
